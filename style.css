@@ -1,0 +1,13 @@
+body{ color: white; }
+
+.nav {padding:10px; background-color: #073e91; opacity: 90%;}
+
+.home {padding: 14px 40px 10px 10px; color: white;}
+.player_record {padding: 10px 40px 10px 10px; color: white;}
+.login {padding: 10px 40px 10px 10px; color: white;}
+.logout {padding: 10px 40px 10px 10px; color: white;}
+
+div h1 {text-align: center;}
+
+.center { width: 98%; margin-left: auto; margin-right: auto; }
+td, th { padding:7px; border: 1px solid black;border-collapse: collapse;}
